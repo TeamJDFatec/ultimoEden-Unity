@@ -1,5 +1,5 @@
-# Created by https://www.toptal.com/developers/gitignore/api/visualstudio,visualstudiocode,unity,csharp
-# Edit at https://www.toptal.com/developers/gitignore?templates=visualstudio,visualstudiocode,unity,csharp
+# Created by https://www.toptal.com/developers/gitignore/api/visualstudio,unity,csharp,visualstudiocode
+# Edit at https://www.toptal.com/developers/gitignore?templates=visualstudio,unity,csharp,visualstudiocode
 
 ### Csharp ###
 ## Ignore Visual Studio temporary files, build results, and
@@ -657,4 +657,4 @@ crashlytics-build.properties
 ### VisualStudio Patch ###
 # Additional files built by Visual Studio
 
-# End of https://www.toptal.com/developers/gitignore/api/visualstudio,visualstudiocode,unity,csharp
+# End of https://www.toptal.com/developers/gitignore/api/visualstudio,unity,csharp,visualstudiocode
